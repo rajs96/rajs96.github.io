@@ -23,7 +23,7 @@ email: raj.singh@rajdoesml.com
 description: >- # this means to ignore newlines until "baseurl:"
   Life and ML.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.rajdoesml.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rajs96
 
 # Build settings
