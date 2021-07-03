@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hey! My name is Raj and I'm a Machine Learning Engineer at [Cultivate](https://cultivate.com/),
-a startup building an AI-powered leadership development platform.
+a San Francisco startup building an AI-powered leadership development platform.
 
 I work at the intersection of software engineering, machine learning, and natural language processing.
 I'm familiar with modern NLP techniques (Transformers, Attention) and the APIs used to implement
